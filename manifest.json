@@ -1,0 +1,12 @@
+{
+    "name": "Photo",
+    "start_url": "./",
+    "icons": [
+      {
+        "src": "wiki.png",
+        "sizes": "144x144",
+        "type": "image/png"
+      }
+    ],
+    "display": "fullscreen"
+  }
