@@ -7,7 +7,7 @@ self.addEventListener('install', (event) => {
         .then((cache) => {
           return cache.addAll([
             './',
-            'pwa.html',
+            'index.html',
             'stylesheets/styles.css',
             'images/a.jpg',
             'images/b.jpg',
